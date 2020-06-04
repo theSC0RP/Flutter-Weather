@@ -1,6 +1,6 @@
-# weather
+# Weather
 
-A new Flutter project.
+A Flutter project to display the weather details of the searched city using the OpenWeatherMap API.
 
 ## Getting Started
 
